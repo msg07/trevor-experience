@@ -1,0 +1,173 @@
+header{
+    background-color: rgb(64, 177, 143);
+    color: ghostwhite;
+    text-align: center;
+    font-size: 60px;
+    margin: 0%;
+}
+.bruhborder{
+  border-color: blue;
+  border-width: 5px;
+}
+body{
+  background-image: url(https://thumbs.dreamstime.com/b/pixel-art-grass-background-seamless-lawn-texture-backdrop-vector-illustration-223655094.jpg);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: larger;
+  }
+  /-- just so the nav bar has a fancy hover function--/
+  li a:hover {
+    background-color: #111;
+  }
+  footer{
+      background-color: darkgreen;
+      font-size: 30px;
+      color: ghostwhite;
+      text-align: center;
+  }
+
+  .hints{
+    color: ghostwhite;
+    font-size: 60px;
+    background-color: darkgoldenrod;
+  }
+
+  h2{
+    background-color: darkcyan;
+    text-align: center;
+    color: ghostwhite;
+    margin: 0%;
+  }
+
+  .blog{
+    background-color: darkolivegreen;
+    text-align: center;
+    color: ghostwhite;
+  }
+
+  .subscribe{
+    background-color: rgb(77, 33, 33);
+    text-align: center;
+    color: ghostwhite;
+  }
+
+  .instructions{
+    background-color: peru;
+  }
+
+  .secrets{
+    font-weight: bold;
+  }
+  .meme{
+    background-image: url(C:\Users\memeg\Downloads\Pixilart_Sprite_Sheet_2.png);
+  }
+
+  .levels{
+    font-weight: bold;
+  }
+
+  .enemies{
+    font-weight: bold;
+  }
+
+  .subsy{
+    margin-top: 22%;
+
+  }
+
+  .center {
+    margin-left: 500px;
+
+}
+
+.o {
+    font-size: 20px;
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subs{
+  border-style: groove;
+  border: 3px;
+}
+
+.gallery {
+  margin-bottom: 80px;
+  margin: 73px;
+  border: 1px solid rgb(87, 79, 38);
+
+  width: 260px;
+  display:inline-block;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.gamecover{
+  float: right;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.blow{
+  float: right;
+  padding-right: 200px;
+  width: 30%;
+  padding-bottom: 150px;
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+}
+.footer {
+ 
+  padding-bottom: 0px;
+  bottom: 0;
+
+  text-align: center;
+}
+.border{
+  border-color: blue;
+  border-width: 5px;
+}
+.img{
+  width: 50px;
+  height: 50px;
+}
+.q{
+ font-family: 'Courier New', Courier, monospace;
+
+}
+
+#red{
+  text-color:red;
+}
+.dodo{
+font-size: 20px;
+background-color: rgb(255, 68, 0);
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#taskbar{
+  background-color:blue;
+}
